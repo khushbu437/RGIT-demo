@@ -1,2 +1,2 @@
 # RGIT-demo
-Author-Khushbu
+Author-Khushbu RGIT
